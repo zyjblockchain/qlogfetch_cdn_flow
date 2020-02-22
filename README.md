@@ -1,0 +1,2 @@
+# qlogfetch_cdn_flow
+通过log计算七牛云cdn流量使用情况
